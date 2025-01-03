@@ -1,4 +1,8 @@
-# Salesforce DX Project: Next Steps
+# Salesforce-SWAT-DEMO
+
+This repository was initially created as a template for the Thoughtworks Salesforce SWAT project. It contains a basic SFDX project structure and some sample Apex code. Now, this repository serves as a personal SFDX template for research purposes.
+
+## Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
